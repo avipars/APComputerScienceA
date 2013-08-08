@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=randomChars\ alphabet
+comment0.target=RickyMutschlechnerCipher(java.util.ArrayList,\ java.util.ArrayList)
+comment1.params=c
+comment1.target=char\ getEncryptedChar(char)
+comment2.params=message
+comment2.target=java.lang.String\ encrypt(java.lang.String)
+numComments=3

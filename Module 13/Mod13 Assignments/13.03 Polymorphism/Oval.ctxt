@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ rad1\ rad2
+comment0.target=Oval(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ oval\r\n
+comment1.params=
+comment1.target=int\ getRadius2()
+numComments=2

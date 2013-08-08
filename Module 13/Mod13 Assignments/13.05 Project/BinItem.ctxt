@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=sku\ quantity
+comment0.target=BinItem(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getSKU()
+comment2.params=
+comment2.target=int\ getQuantity()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

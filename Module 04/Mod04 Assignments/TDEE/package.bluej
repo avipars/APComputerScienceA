@@ -1,0 +1,21 @@
+#BlueJ package file
+package.editor.height=330
+package.editor.width=560
+package.editor.x=382
+package.editor.y=124
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=692
+target1.editor.width=900
+target1.editor.x=954
+target1.editor.y=247
+target1.height=50
+target1.name=TDEE
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=70
+target1.y=10

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=type\ endMi\ startMi\ galUsed\ pricePerGal\ costOfGals\ milesPerGal\ galsPerMile
+comment0.target=CarV7(java.lang.String,\ int,\ int,\ double,\ double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=int\ calcDistance()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=int\ getStartMiles()
+comment4.params=
+comment4.target=int\ getEndMiles()
+comment5.params=
+comment5.target=double\ getGallonsUsed()
+comment6.params=
+comment6.target=double\ getPricePerGallon()
+comment7.params=
+comment7.target=double\ calcMPG()
+comment8.params=
+comment8.target=double\ calcGPM()
+comment9.params=
+comment9.target=double\ calcCost()
+numComments=10

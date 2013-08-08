@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=l\ w\ t
+comment0.target=Forest(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getTrees()
+numComments=2

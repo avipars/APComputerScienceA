@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=title\ artist\ sku
+comment0.target=CompactDisk(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CompactDisk\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2

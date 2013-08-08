@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=upperLimit
+comment0.target=PrimeNumbers(int)
+comment1.params=
+comment1.target=int\ calculatePrimes()
+numComments=2

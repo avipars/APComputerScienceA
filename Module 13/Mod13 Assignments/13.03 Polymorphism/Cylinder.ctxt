@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ rad\ h
+comment0.target=Cylinder(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ cylinder\r\n
+comment1.params=
+comment1.target=int\ getHeight()
+numComments=2

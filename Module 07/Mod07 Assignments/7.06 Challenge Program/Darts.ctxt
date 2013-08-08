@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ numTrials
+comment0.target=int\ hits(double,\ double,\ int)
+comment1.params=numberOfHits\ dartThrows
+comment1.target=double\ calculatePi(double,\ double)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double[]\ readTextFile()
+comment1.params=weight\ gravities
+comment1.target=double[]\ weightOnPlanet(double,\ double[])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s1\ s2
+comment0.target=ShapesV7(int,\ int)
+comment1.params=
+comment1.target=double\ calcTriArea()
+comment2.params=
+comment2.target=double\ calcHypoteneuse()
+numComments=3

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=name\ numVotes
+comment0.target=Candidate2(java.lang.String,\ int)
+comment0.text=\r\n\ Default\ constructor\ for\ the\ Candidate2.\r\n\ @param\ String\ name,\ int\ numVotes\ -\ self\ explanatory\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Method\ that\ returns\ the\ name\ of\ the\ Candidate2.\r\n\ @returns\ String\ name\ -\ self\ explanatory\r\n
+comment2.params=
+comment2.target=int\ getVotes()
+comment2.text=\r\n\ Method\ that\ returns\ the\ number\ of\ Votes\ for\ the\ Candidate2.\r\n\ @returns\ int\ numVotes\ -\ self\ explanatory\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Method\ that\ returns\ the\ Name,\ followed\ by\ the\ number\ of\ votes.\r\n
+comment4.params=c
+comment4.target=void\ replaceName(Candidate2)
+comment4.text=\r\n\ Method\ that\ replaces\ the\ name\ of\ one\ Candidate2\ with\ the\ name\ of\ another.\r\n\ @param\ Candidate2\ c\ -\ the\ candidate\ that\ you\ want\ to\ swap\ with.\r\n
+comment5.params=n
+comment5.target=void\ replaceName(java.lang.String)
+comment5.text=\r\n\ Method\ that\ replaces\ the\ name\ of\ one\ Candidate2\ with\ the\ name\ passed\ through\ the\ method\r\n\ @param\ String\ n\ -\ the\ name\ that\ you\ want\ to\ change\ it\ to.\r\n
+comment6.params=c
+comment6.target=void\ replaceVotes(Candidate2)
+comment6.text=\r\n\ Method\ that\ replaces\ the\ votes\ of\ one\ Candidate2\ with\ the\ votes\ of\ another.\r\n\ @param\ Candidate2\ c\ -\ the\ candidate\ that\ you\ want\ to\ swap\ with.\r\n
+comment7.params=v
+comment7.target=void\ replaceVotes(int)
+comment7.text=\r\n\ Method\ that\ replaces\ the\ votes\ of\ one\ Candidate2\ with\ a\ select\ amount\ of\ votes,\ passed\ in.\r\n\ @param\ int\ v\ -\ the\ number\ of\ votes.\r\n
+numComments=8

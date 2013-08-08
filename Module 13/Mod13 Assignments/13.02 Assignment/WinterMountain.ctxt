@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=l\ w\ m\ temp
+comment0.target=WinterMountain(int,\ int,\ int,\ double)
+comment1.params=
+comment1.target=double\ getTemp()
+numComments=2

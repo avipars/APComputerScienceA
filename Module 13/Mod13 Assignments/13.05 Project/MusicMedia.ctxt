@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=title\ artist\ sku
+comment0.target=MusicMedia(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getTitle()
+comment2.params=
+comment2.target=java.lang.String\ getArtist()
+comment3.params=
+comment3.target=java.lang.String\ getMediaType()
+comment4.params=
+comment4.target=java.lang.String\ getSKU()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

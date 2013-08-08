@@ -1,0 +1,24 @@
+PlainText class:
+1. Read the plaintext. // complete!
+2. Store the plaintext. // Complete!
+3. Analyze Frequency of Letters //complete!
+4. Save Frequency of Letters. //complete!
+5. Print the Frequencies //complete!
+
+Ciphertext Class:
+1. Read the Ciphertext. //complete!
+2. Store the Ciphertext. //complete!
+3. Analyze Frequency of Letters. //complete!
+4. Save frequency of Characters. //complete!
+5. Print the Frequencies //complete!
+
+Decipher Class:
+1. Take both of the frequencies from the other two classes.
+2. Compare them to determine what letters are what.
+3. Swap the appropriate letters.
+4. Store the cipher used.
+
+DecodeMessage // Tester Class:
+1. Take the Cipher that was used for the encryption.
+2. Decrypt the secret Message.
+3. Print the secret message.

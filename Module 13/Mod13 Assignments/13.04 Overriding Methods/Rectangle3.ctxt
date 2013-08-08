@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=l\ w
+comment0.target=Rectangle3(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ rectangle\r\n
+comment1.params=
+comment1.target=int\ getLength()
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=r
+comment3.target=boolean\ equals(Rectangle3)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
